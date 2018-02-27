@@ -1,5 +1,6 @@
 # Description
 I suggest to look at the [diagram](https://github.com/mkondratek/Bookstore-Database-Design/blob/master/diagram.png). A picture is worth a thousand words.
+
 ### Tables
 |tablename|description|
 |----------|----------|
