@@ -1,6 +1,6 @@
 # Description
 I suggest to look at the diagram. A picture is worth a thousand words.
-![diagram](diagram.png?raw=true "Title")
+![diagram](diagram.png?raw=true)
 
 ### Tables
 |tablename|description|
